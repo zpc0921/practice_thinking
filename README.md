@@ -33,4 +33,5 @@ Immutable objects are thread safe, because the state of that object will never b
 ### * Why should you avoid floats for Calculations?
 floasts为半精度，超过精度能表示的范围就会产生误差；
 ### * Why should you build the riskiest hign priority features first?
+最具风险的高优先级功能，决定项目能否成功交付的关键，如果未突破，那么最重要的特性就缺失；因此必须首先攻关风险最高的，待其解决，其它功能特性就类似于堆积木了； 
 
